@@ -1,0 +1,10 @@
+D:\Users\Trevor\Documents\GitHub\cifiprojects\CifiProjectDB\CifiProjectDB\bin\Debug\CifiProjectDB.dacpac
+D:\Users\Trevor\Documents\GitHub\cifiprojects\CifiProjectDB\CifiProjectDB\bin\Debug\CifiProjectDB.dll
+D:\Users\Trevor\Documents\GitHub\cifiprojects\CifiProjectDB\CifiProjectDB\bin\Debug\CifiProjectDB.pdb
+D:\Users\Trevor\Documents\GitHub\cifiprojects\CifiProjectDB\CifiProjectDB\obj\Debug\CifiProjectDB.sqlproj.AssemblyReference.cache
+D:\Users\Trevor\Documents\GitHub\cifiprojects\CifiProjectDB\CifiProjectDB\obj\Debug\CifiProjectDB.dll
+D:\Users\Trevor\Documents\GitHub\cifiprojects\CifiProjectDB\CifiProjectDB\obj\Debug\CifiProjectDB.pdb
+D:\Users\Trevor\Documents\GitHub\cifiprojects\CifiProjectDB\CifiProjectDB\obj\Debug\Model.xml
+D:\Users\Trevor\Documents\GitHub\cifiprojects\CifiProjectDB\CifiProjectDB\obj\Debug\refactor.xml
+D:\Users\Trevor\Documents\GitHub\cifiprojects\CifiProjectDB\CifiProjectDB\obj\Debug\postdeploy.sql
+D:\Users\Trevor\Documents\GitHub\cifiprojects\CifiProjectDB\CifiProjectDB\obj\Debug\predeploy.sql

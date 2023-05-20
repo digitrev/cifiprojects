@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Edit <code>src/App.tsx</code> and save to reload.{' '}
+          <b>A simple test that makes the line a lot longer</b>
         </p>
         <a
           className="App-link"
@@ -24,3 +25,4 @@ function App() {
 }
 
 export default App;
+

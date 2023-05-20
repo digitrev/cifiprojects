@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CifiProjectDB", "CifiProjectDB\CifiProjectDB.sqlproj", "{EA988FDA-E7B6-4EEF-844F-F161105CEBA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA988FDA-E7B6-4EEF-844F-F161105CEBA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA988FDA-E7B6-4EEF-844F-F161105CEBA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA988FDA-E7B6-4EEF-844F-F161105CEBA2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EA988FDA-E7B6-4EEF-844F-F161105CEBA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA988FDA-E7B6-4EEF-844F-F161105CEBA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA988FDA-E7B6-4EEF-844F-F161105CEBA2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22FD4281-9835-41CA-B1EC-63B585FFC503}
+	EndGlobalSection
+EndGlobal

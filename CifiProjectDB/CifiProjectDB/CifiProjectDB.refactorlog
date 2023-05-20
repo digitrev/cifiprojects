@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="6df72855-f7d8-4c5f-a01d-0b2be10fab3f" ChangeDateTime="05/19/2023 00:26:28">
+    <Property Name="ElementName" Value="[dbo].[Personnel].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Personnel]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="PersonnelID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="ebde3580-080e-41e3-b0d0-6b8959e77e86" ChangeDateTime="05/19/2023 00:27:43">
+    <Property Name="ElementName" Value="[dbo].[Material].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Material]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="MaterialID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="d80ff8ad-de41-42dc-b13d-7aaf511e478c" ChangeDateTime="05/19/2023 00:28:21">
+    <Property Name="ElementName" Value="[dbo].[Material].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Material]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="MaterialID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3e8c9532-6872-4568-a11f-fb5f4e8db791" ChangeDateTime="05/19/2023 00:29:59">
+    <Property Name="ElementName" Value="[dbo].[Missions].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Missions]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="MissionID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f5c90f23-8200-4f49-8cd9-256a048353c0" ChangeDateTime="05/19/2023 00:33:50">
+    <Property Name="ElementName" Value="[dbo].[Planets].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Planets]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="PlanetID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="4a0f4080-ad38-4eb1-ba10-e8cb5bd3f73f" ChangeDateTime="05/19/2023 00:36:05">
+    <Property Name="ElementName" Value="[dbo].[Projects].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Projects]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ProjectID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e5713eca-7393-4dbc-9b52-5b95ecc4f69f" ChangeDateTime="05/19/2023 00:37:21">
+    <Property Name="ElementName" Value="[dbo].[ProjectMaterials].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[ProjectMaterials]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ProjectID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="73365b93-8532-4ec9-8029-0adc68fc4c3b" ChangeDateTime="05/19/2023 00:38:36">
+    <Property Name="ElementName" Value="[dbo].[MissionMaterials].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[MissionMaterials]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="MissionID" />
+  </Operation>
+</Operations>
