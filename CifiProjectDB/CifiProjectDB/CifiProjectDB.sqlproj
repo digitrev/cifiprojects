@@ -58,6 +58,7 @@
     <Folder Include="Properties" />
     <Folder Include="dbo" />
     <Folder Include="dbo\Tables" />
+    <Folder Include="dbo\Stored Procedures" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Personnel.sql" />
@@ -67,6 +68,13 @@
     <Build Include="dbo\Tables\Projects.sql" />
     <Build Include="dbo\Tables\ProjectMaterials.sql" />
     <Build Include="dbo\Tables\MissionMaterials.sql" />
+    <Build Include="dbo\Stored Procedures\prPersonnelJson.sql" />
+    <Build Include="dbo\Stored Procedures\prMaterialsJson.sql" />
+    <Build Include="dbo\Stored Procedures\prMissionMaterialsJson.sql" />
+    <Build Include="dbo\Stored Procedures\prMissionsJson.sql" />
+    <Build Include="dbo\Stored Procedures\prPlanetsJson.sql" />
+    <Build Include="dbo\Stored Procedures\prProjectMaterialsJson.sql" />
+    <Build Include="dbo\Stored Procedures\prProjectsJson.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="CifiProjectDB.refactorlog" />
